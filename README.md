@@ -11,7 +11,4 @@ Le Système de Gestion de Cabinet Médical est une application JavaFX complète 
 ![img.png](img.png)
 ![img_1.png](img_1.png)
 
-## Installation
-1. Cloner le dépôt GitHub :
-   ```sh
-   git clone https://github.com/votre-nom-utilisateur/gestion-cabinet-medical.git
+
